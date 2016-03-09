@@ -1,3 +1,3 @@
-QWERTZ
+# Github repozitář KS Středočeský kraj
 
-# pirati-sck
+Výpis sekcí
