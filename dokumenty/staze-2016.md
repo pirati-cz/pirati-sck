@@ -1,7 +1,7 @@
 # Požadavky a podmínky stáží v SčK pro rok 2016
 
 
-## Náplň práce
+## Náplň práce a podmínky stáže
 
 ### Asistent PKS:
 - pomáhá s administrativou a byrokracií
