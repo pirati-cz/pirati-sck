@@ -40,6 +40,7 @@
 ### Manažer kampaně:
 - zastřešuje práci ostatních stážistů, volebního štábu, kandidátů a předsednictva
 - spolupracuje s analytikem a koordinátorem
+- spolupracuje s manažerem senátní kampaně
 - připravuje plán kampaně a pomáhá s tvorbou strategie
 - zajišťuje objednávky, poptávky, zábory
 - domlouvá účinkování kandidátů v médiích 
