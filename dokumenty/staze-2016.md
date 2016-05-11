@@ -11,7 +11,7 @@
 - předsedá jednání krajského fóra a místních fór
 - účastní se dle možností porad a schůzí a pořízuje zápis
 - komunikuje s MS
-- délka stáže: nástup ihned, do konce roku s možností prodloužení na neurčito
+- délka stáže: nástup ihned, do října s možností prodloužení na neurčito
 - požadované vytížení: alespoň 5 hodin týdně
 - ohodnocení: 1 500 Kč měsíčně nebo poměrnou částkou týdně
 
