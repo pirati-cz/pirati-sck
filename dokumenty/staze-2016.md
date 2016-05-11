@@ -1,4 +1,4 @@
-# Požadavky a podmínky stáží v SčK pro rok 2016
+# Podmínky stáží v SčK pro rok 2016
 
 
 ## Náplň práce a podmínky stáže
