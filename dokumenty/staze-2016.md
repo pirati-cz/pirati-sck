@@ -47,8 +47,12 @@
 - zodpovědně plánuje financování s finančními prostředky
 - je dle svých možností denně k dispozici na telefonu
 - délka poměru: červen až září
-- požadované vytížení: alespoň 20 hodin týdně
-- ohodnocení: 6 000 Kč měsíčně nebo poměrnou částkou týdně
+- požadované vytížení: 
+  - v případě podpory senátora: alespoň 20 hodin týdně
+  - v případě nepodpory senátora: alespoň 15 hodin týdně
+- ohodnocení: 
+  - v případě podpory senátora: 6 000 Kč měsíčně nebo poměrnou částkou týdně
+  - v případě nepodpory senátora: 4 500 Kč měsíčně nebo poměrnou částkou týdně
 
 
 ## Předpoklady požadované od zájemců:
