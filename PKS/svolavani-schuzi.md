@@ -1,15 +1,15 @@
-** Návod ke svolání krajské schůze (zasedání krajského fóra) **
+## Návod ke svolání krajské schůze (zasedání krajského fóra) 
 
-*** Založit pad s formátovaným názvem:
+### Založit pad s formátovaným názvem:
     - KS_ScK_den_mesic_rok
     - např. pad.pirati.cz/p/KS_ScK_06-03-16
     - nadraftovat šablonu: https://pad.pirati.cz/p/KS_ScK_draft_zapisu
     
-*** Vlákno plánování schůzí: 
+### Vlákno plánování schůzí: 
     - datum, čas, místo, odkazy na pad a událost
     - https://forum.pirati.cz/schuze-ks-stredocesky-kraj-f799/planovani-schuzi-t13752-720.html
     
-*** Založit FB event:
+### Založit FB event:
     - okopírovat název, fotku a popis + změnit body programu
 
 Vážení členové a příznivci,
@@ -25,14 +25,14 @@ Program:
 
 Po skončení schůze pro zájemce opět večeře a neformální diskuse
     
-*** Rozeslat SZ na fóru:
+### Rozeslat SZ na fóru:
     - dle vzoru a aktualizovat údaje
     
-*** Rozeslat SMS: 
+### Rozeslat SMS: 
     - dle vzoru a aktualizovat údaje
     
-*** Vlákno sdílení do kalendáře:
+### Vlákno sdílení do kalendáře:
     - dle vzoru a aktualizovat údaje
 
-*** Vlákno "Akce v PICE":
+### Vlákno "Akce v PICE":
     - zabookovat PICE
