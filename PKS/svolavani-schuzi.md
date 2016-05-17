@@ -11,23 +11,28 @@
 ### Založit FB event:
     - okopírovat název, fotku a popis + změnit body programu
 
-*Vážení členové a příznivci,
+Vážení členové a příznivci,
+
 zveme vás na druhou květnovou schůzi krajského sdružení. 
 
 DORAŽTE AUTEM NEBO S KROSNOU, abyste si mohli nabrat BALÍKY PIRÁTSKÝCH LISTŮ k distribuci po svém rajónu. 
 
 Program: 
+
 1) grilovačka senátního kandidáta (obvod 16 - Beroun)
+
 2) reporty předsednictva a volebního štábu
+
 3) plán aktivit 
+
 ... a mnoho další zábavy
 
-Po skončení schůze pro zájemce opět večeře a neformální diskuse.*
+Po skončení schůze pro zájemce opět večeře a neformální diskuse.
     
 ### Rozeslat SZ na fóru:
     - dle vzoru a aktualizovat údaje
 
-*Ahoj Piráti!
+Ahoj Piráti!
 
 V neděli [u]8. května od 15:00 v PICE[/u] ([url=https://goo.gl/maps/dKe1h82XizH2]mapa[/url]) proběhne další krajská schůze ([url=https://www.facebook.com/events/1014426998640393/]facebooková událost[/url]). 
 
@@ -42,7 +47,7 @@ Podrobná agenda je v [url=https://pad.pirati.cz/p/KS_ScK_08-05-16]padu se zápi
 
 Po skončení schůze pro zájemce opět večeře a neformální diskuse.
 
-Těšíme se na vás! ;)*
+Těšíme se na vás! ;)
     
 ### Rozeslat SMS: 
     - dle vzoru a aktualizovat údaje
