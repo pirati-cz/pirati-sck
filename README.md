@@ -1,3 +1,7 @@
 # Github repozitář KS Středočeský kraj
 
-Výpis sekcí
+> 
+* PKS
+* dokumenty
+* grafika
+* prezentace
