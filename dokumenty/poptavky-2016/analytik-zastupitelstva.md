@@ -36,4 +36,4 @@ V nabídce nám prosím zašli svůj životopis a pokud budeš chtít, případn
 
 Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance (DPP, DPČ) – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle podmínek pro placené úkoly s vykazováním v systémů redmine. Více viz. podmínky pro placené úkoly (https://github.com/pirati-cz/sablony/blob/master/ukoly/podminky/podminky.md#podm%C3%ADnky-pro-placen%C3%A9-%C3%BAkoly).
 
-Nabídku nám prosím zašli do 3.6. 2016, následně Tě budeme informovat ohledně dalšího postupu. Nabídku pošli na adresu Viktor.Mahrik@pirati.cz, kopii potom na Lenka.Kozlova@pirati.cz.
+Nabídku nám prosím zašli do 6. 6. 2016 do 24:00, následně Tě budeme informovat ohledně dalšího postupu. Nabídku pošli na adresu Viktor.Mahrik@pirati.cz, kopii potom na Lenka.Kozlova@pirati.cz.
