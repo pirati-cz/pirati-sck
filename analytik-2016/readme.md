@@ -1,0 +1,1 @@
+Složka pro volebního analytika 
